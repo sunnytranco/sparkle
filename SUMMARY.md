@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Getting Started](README.md)
+* [Foundations](foundations/README.md)
+  * Accessibility
+  * Typography
+  * Color
+  * Layout
+  * Iconography
+  * Writing Style
 
