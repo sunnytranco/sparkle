@@ -1,7 +1,3 @@
----
-description: 'Anything that is native to HTML, input fields, buttons, checkboxes, etc'
----
-
 # Foundations
 
 ## Accessibility

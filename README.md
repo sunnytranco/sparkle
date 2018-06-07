@@ -31,10 +31,6 @@ Jumpstart your project with one of our Sketch-based design resources. Start by d
 {% tab title="HTML/CSS Framework" %}
 
 {% endtab %}
-
-{% tab title="HTML/CSS Framework" %}
-
-{% endtab %}
 {% endtabs %}
 
 ## Browser Support
