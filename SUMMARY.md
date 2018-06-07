@@ -7,8 +7,8 @@
   * [Developer](guidelines/developer.md)
 * [Foundations](foundations/README.md)
   * [Color](foundations/color.md)
+  * [Layers](foundations/layers.md)
   * [Typography](foundations/typography.md)
-  * [Layout](foundations/layout.md)
   * [Iconography](foundations/iconography.md)
   * [Writing Style](foundations/writing-style.md)
 
