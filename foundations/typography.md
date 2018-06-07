@@ -1,3 +1,10 @@
+---
+description: >-
+  Using system-ui in development but when we design, only SF Pro Text and SF Pro
+  Display could be used due to consistency requirement and major diff from
+  development
+---
+
 # Typography
 
 ## Font stacks
