@@ -27,9 +27,54 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 
 font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", "Ubuntu Mono", Menlo, Courier, monospace;
 ```
 
-## Font colors
+## Type scale
 
-We have two color palettes for typography. Based on which element and state we use appropriate color to ensuring sufficient color contrast between elements so that people with low vision can see and use the interface.
+{% hint style="info" %}
+We use rem unit as base unit for web development with **1 rem = 16 px**
+{% endhint %}
+
+| **Name** | **rem** | **px** | **Role\(s\)** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Paragraph 1** | 0.625 | 10 | Especially small description |
+| **Paragraph 2** | 0.75 | 12 | Short description field |
+| **Paragraph 3** | 0.875 | 14 | Anything from a couple of words to long description fields |
+| **Heading 1** | 0.625 | 10 | Lowest level headings |
+| **Heading 2** | 0.75 | 12 | Low level headings. Heading up a group of list items |
+| **Heading 3** | 0.875 | 14 | Deep headings and for highlighting important pieces of information |
+| **Heading 4** | 1 | 16 | Sub-section and field group headings |
+| **Heading 5** | 1.25 | 20 | Headings that identify key functionality |
+| **Heading 6** | 1.5 | 24 | Main titles, use only once per page |
+| **Heading 7** | 1.75 | 28 | Empty states and feature introductions. Top level headers |
+| **Heading 8** | 2.125 | 34 | For oversized screen titles. Use in moderation |
+| **Heading 9** | 2.5 | 40 | Extraordinary title |
+
+## Typographic treatments
+
+### Font weight
+
+Font weight is an important typographic style that can add emphasis and is used to differentiate content hierarchy. Font weight and size pairings must be carefully balanced. A bold weight will always have more emphasis than a lighter weight font of the same size. However, a lighter weight font can rank hierarchically higher than a bold font if the lighter weight type size is significantly larger than the bold.
+
+| **Font-weight: 400 / Regular**  _Should only be used at sizes smaller than or equal to 14px / 0.875rem in paragraph_ |
+| --- | --- | --- |
+| **Font-weight: 500 / Semi-bold** _Should only be used at sizes from 10px / 0.625rem to 20px / 1.25rem in heading_ |
+| **Font-weight: 600 / Medium** _Should only be used at sizes greater than or equal to 24px / 1.5rem in heading_ |
+
+### Line-height
+
+Line-height, traditionally known as leading, is one of several factors that directly contribute to readability and pacing of copy. Line-heights are based on the size of the font itself. Ideal line-heights for standard copy have a ratio of 1:1.5 \(typesize : line-height\). For example, a type at 16px/1rem would have a line-height of 1.5rem/24px \(16 x 1.5\). The exception to this rule are headings, which need less spacing and therefore have a line-height ratio of 1:1.25.
+
+| **Line-height** | **Ratio** |
+| --- | --- | --- |
+| **Paragraph** | 1:1.5 |
+| **Heading** | 1:1.25 |
+
+### Line-length
+
+Line-length, traditionally known as measure, is the number of characters in a single line. It also directly contributes to the readability and pacing of copy. Lines that are too long degrade eye tracking from line to line, making it difficult to gauge which line to read next. In contrast, lines that are too short make it difficult for a reader to maintain a steady reading rhythm. Short lines often create disproportionate ragged edges that negatively affect the design.
+
+{% hint style="info" %}
+**Line-length**: 52 - 78 characters
+{% endhint %}
 
 
 
