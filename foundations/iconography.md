@@ -13,7 +13,7 @@ We rely on **Font-Awesome** icons library to conduct most of our icons system. B
 {% endtab %}
 
 {% tab title="Sources" %}
-[https://www.dropbox.com/sh/zx40otm8idie857/AACfXmqRslm4tR\_DJy8N-akEa?dl=0](https://www.dropbox.com/sh/zx40otm8idie857/AACfXmqRslm4tR_DJy8N-akEa?dl=0)
+[https://www.dropbox.com/sh/zx40otm8idie857/AACfXmqRslm4tR\_DJy8N-akEa?dl=0](https://www.dropbox.com/s/n0x0vwqazz8mbhy/fontawesome-pro-5.0.8.zip?dl=0)
 {% endtab %}
 
 {% tab title="Zeplin" %}
