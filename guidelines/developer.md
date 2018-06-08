@@ -9,7 +9,7 @@ sparkle-ds/
 ├──components
 │  ├──button
 │     ├──button.vue
-│     ├──button.js
+│     ├──index.js
 │     ├──_button.scss
 │     └──_mixins.scss
 │  └──etc
