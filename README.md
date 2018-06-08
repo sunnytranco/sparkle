@@ -13,25 +13,11 @@ Sparkle is a design system that brings together UX guidelines, an HTML/CSS frame
 
 Our guidelines have space for flexibility, and are continuously revised and expanded to suit changing product needs.
 
-Sparkle's designs stem from continuous exploration and research. These designs are built into our HTML/CSS components, which can be used any web/mobile UI, regardless of the underlying JavaScript framework. Clarity also offers a set of well-designed and implemented data-bound components built on top of Vue, one of the most popular JavaScript frameworks in the industry.
+Sparkle's designs stem from continuous exploration and research. These designs are built into our HTML/CSS components, which can be used any web/mobile UI, regardless of the underlying JavaScript framework
 
 ## How To Use
 
 We offer three approaches for utilizing Sparkle: UX, UX and UI, and Vue.
-
-## Using Resources
-
-Jumpstart your project with one of our Sketch-based design resources. Start by downloading the [_SF Pro Fonts_](https://developer.apple.com/fonts/). Then download your resource of choice.
-
-{% tabs %}
-{% tab title="Sketch Templates" %}
-
-{% endtab %}
-
-{% tab title="HTML/CSS Framework" %}
-
-{% endtab %}
-{% endtabs %}
 
 ## Browser Support
 
