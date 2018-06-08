@@ -6,34 +6,38 @@ Sparkle Design System provides front-end developers & engineers a collection of 
 
 ```text
 sparkle-ds/
-|--components
-|  |--button
-|  |  |--button.vue
-|  |  |--button.js
-|  |  |--_button.scss
-|  |  |--_mixins.scss
-|--global
-|  |--assets
-|  |  |--images
-|  |--fonts
-|  |  |--sf-pro-text.woff
-|  |--grid
-|  |  |--_variables.scss
-|  |  |--_grid.scss
-|  |--scss
-|  |  |--_colors.scss
-|  |  |--_css--body.scss
-|  |  |--_css--font-face.scss
-|  |  |--_css--helpers.scss
-|  |  |--_css--reset.scss
-|  |  |--_css--typography.scss
-|  |  |--_layer.scss
-|  |  |--_layout.scss
-|  |  |--_mixins.scss
-|  |  |--_spacing.scss
-|  |  |--_typography.scss
-|  |  |--_vars.scss
-|  |  |--style.scss
+├──components
+│  ├──button
+│     ├──button.vue
+│     ├──button.js
+│     ├──_button.scss
+│     └──_mixins.scss
+│  └──etc
+├──global
+│  ├──assets
+│     ├──images
+│     └──etc
+│  ├──fonts
+│     ├──sf-pro-text.woff
+│     └──etc
+│  ├──grid
+│     ├──_variables.scss
+│     ├──_etc
+│     └──_grid.scss
+│  ├──scss
+│     ├──_colors.scss
+│     ├──_css--body.scss
+│     ├──_css--font-face.scss
+│     ├──_css--helpers.scss
+│     ├──_css--reset.scss
+│     ├──_css--typography.scss
+│     ├──_layer.scss
+│     ├──_layout.scss
+│     ├──_mixins.scss
+│     ├──_spacing.scss
+│     ├──_typography.scss
+│     ├──_vars.scss
+│     └──style.scss
 ```
 
 ## SCSS
