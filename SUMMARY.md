@@ -11,4 +11,7 @@
   * [Typography](foundations/typography.md)
   * [Iconography](foundations/iconography.md)
   * [Writing Style](foundations/writing-style.md)
+* [Components](components/README.md)
+  * [Button](components/button.md)
+  * [Checkbox](components/checkbox.md)
 
