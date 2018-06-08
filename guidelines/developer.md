@@ -104,5 +104,13 @@ Importing a component this way will bring in any dependencies that component has
 
 Carbon Components are built to be included individually and not clobber global styles - all `class` attributes are prefixed by the `nsds--` moniker. You can specify your own prefix by changing the SCSS variable `$prefix`.
 
+## Resources
+
+| **Name** | **Link** |
+| --- | --- | --- | --- |
+| **Carbon Components** | [https://github.com/carbon-design-system/carbon-components](https://github.com/carbon-design-system/carbon-components) |
+| **Element Theme Chalk** | [https://github.com/ElementUI/theme-chalk](https://github.com/ElementUI/theme-chalk) |
+| **Buefy** | [https://github.com/buefy/buefy](https://github.com/buefy/buefy) |
+
 
 
