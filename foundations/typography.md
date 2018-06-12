@@ -33,20 +33,20 @@ font-family: "SF Mono", "Segoe UI Mono", "Roboto Mono", "Ubuntu Mono", Menlo, Co
 We use rem unit as base unit for web development with **1 rem = 16 px**
 {% endhint %}
 
-| **Name** | **rem** | **px** | **Role\(s\)** |
+| **Name** | **Typescale** | **rem** | **px** | **Role\(s\)** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Paragraph 1** | 0.625 | 10 | Especially small description |
-| **Paragraph 2** | 0.75 | 12 | Short description field |
-| **Paragraph 3** | 0.875 | 14 | Anything from a couple of words to long description fields |
-| **Heading 1** | 0.625 | 10 | Lowest level headings |
-| **Heading 2** | 0.75 | 12 | Low level headings. Heading up a group of list items |
-| **Heading 3** | 0.875 | 14 | Deep headings and for highlighting important pieces of information |
-| **Heading 4** | 1 | 16 | Sub-section and field group headings |
-| **Heading 5** | 1.25 | 20 | Headings that identify key functionality |
-| **Heading 6** | 1.5 | 24 | Main titles, use only once per page |
-| **Heading 7** | 1.75 | 28 | Empty states and feature introductions. Top level headers |
-| **Heading 8** | 2.125 | 34 | For oversized screen titles. Use in moderation |
-| **Heading 9** | 2.5 | 40 | Extraordinary title |
+| **Paragraph 1** | legal | 0.625 | 10 | Especially small description |
+| **Paragraph 2** | caption | 0.75 | 12 | Short description field |
+| **Paragraph 3** | p | 0.875 | 14 | Anything from a couple of words to long description fields |
+| **Heading 1** | omega | 0.625 | 10 | Lowest level headings |
+| **Heading 2** | zeta | 0.75 | 12 | Low level headings. Heading up a group of list items |
+| **Heading 3** | epsilon | 0.875 | 14 | Deep headings and for highlighting important pieces of information |
+| **Heading 4** | delta | 1 | 16 | Sub-section and field group headings |
+| **Heading 5** | gamma | 1.25 | 20 | Headings that identify key functionality |
+| **Heading 6** | beta | 1.5 | 24 | Main titles, use only once per page |
+| **Heading 7** | alpha | 1.75 | 28 | Empty states and feature introductions. Top level headers |
+| **Heading 8** | mega | 2.125 | 34 | For oversized screen titles. Use in moderation |
+| **Heading 9** | giga | 2.5 | 40 | Extraordinary title |
 
 ## Typographic treatments
 
