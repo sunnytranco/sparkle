@@ -82,5 +82,5 @@ Line-length, traditionally known as measure, is the number of characters in a si
 
 Based on our colour system, we use 7 colors for the typography system include Black, Dark, Abandon, White, Primary, Danger and Link
 
- 
+![](../.gitbook/assets/typography.png)
 
