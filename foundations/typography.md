@@ -35,20 +35,20 @@ We use rem unit as base unit for web development with **1 rem = 16 px**
 
 | **Name** | **Typescale** | **rem** | **px** | **Role\(s\)** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Paragraph 1** | legal | 0.625 | 10 | Especially small description |
-| **Paragraph 2** | caption | 0.75 | 12 | Short description field |
-| **Paragraph 3** | desc | 0.875 | 14 | label and short description |
-| **Paragraph 4** | base | 1 | 16 | Everything from regular paragraph to long description |
-| **Paragraph 5** | extend | 1.25 | 20 | For exceptional situation only |
-| **Heading 1** | omega | 0.625 | 10 | Lowest level headings |
-| **Heading 2** | zeta | 0.75 | 12 | Low level headings. Heading up a group of list items |
-| **Heading 3** | epsilon | 0.875 | 14 | Deep headings and for highlighting important pieces of information |
-| **Heading 4** | delta | 1 | 16 | Sub-section and field group headings |
-| **Heading 5** | gamma | 1.25 | 20 | Headings that identify key functionality |
-| **Heading 6** | beta | 1.5 | 24 | Main titles, use only once per page |
-| **Heading 7** | alpha | 1.75 | 28 | Empty states and feature introductions. Top level headers |
-| **Heading 8** | mega | 2.125 | 34 | For oversized screen titles. Use in moderation |
-| **Heading 9** | giga | 2.5 | 40 | Extraordinary title |
+| **P100** | legal | 0.625 | 10 | Especially small description |
+| **P200** | caption | 0.75 | 12 | Short description field |
+| **P300** | desc | 0.875 | 14 | label and short description |
+| **P400** | base | 1 | 16 | Everything from regular paragraph to long description |
+| **P500** | extend | 1.25 | 20 | For exceptional situation only |
+| **H100** | omega | 0.625 | 10 | Lowest level headings |
+| **H200** | zeta | 0.75 | 12 | Low level headings. Heading up a group of list items |
+| **H300** | epsilon | 0.875 | 14 | Deep headings and for highlighting important pieces of information |
+| **H400** | delta | 1 | 16 | Sub-section and field group headings |
+| **H500** | gamma | 1.25 | 20 | Headings that identify key functionality |
+| **H600** | beta | 1.5 | 24 | Main titles, use only once per page |
+| **H700** | alpha | 1.75 | 28 | Empty states and feature introductions. Top level headers |
+| **H800** | mega | 2.125 | 34 | For oversized screen titles. Use in moderation |
+| **H900** | giga | 2.5 | 40 | Extraordinary title |
 
 ## Typographic treatments
 
